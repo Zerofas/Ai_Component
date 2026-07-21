@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Base de datos local
+*.db
+monitor_precios.db
+
+# Python cache
+__pycache__/
+*.pyc
